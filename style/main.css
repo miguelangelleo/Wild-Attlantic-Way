@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+
+
+ .intro {font-family: sans-serif; text-align: center; font-size: 2em;}
+
+ .introDesc {text-align: left; font-family: sans-serif; font-size: 1.2em; margin-left: 1em}
+
+ .introBody {margin-left: 1em;}
+
 /* Places*/ 
 
 
@@ -8,7 +15,7 @@ font-size: 2em;}
 
 .placesBod body{background-color: lightseagreen;}
 .placesFoot a{color: blue;}
-=======
+
 /* actitivies */
 
 .activities-title{
@@ -23,4 +30,4 @@ font-size: 2em;}
     
 
 }
->>>>>>> activities
+
