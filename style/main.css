@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Places*/ 
 
 
@@ -7,3 +8,19 @@ font-size: 2em;}
 
 .placesBod body{background-color: lightseagreen;}
 .placesFoot a{color: blue;}
+=======
+/* actitivies */
+
+.activities-title{
+    text-align: center;
+    background-color: black;
+    color: azure;
+    font-size: 3.5em;
+
+}
+.activitiesbody{
+    padding: 2em;
+    
+
+}
+>>>>>>> activities
