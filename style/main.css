@@ -1,13 +1,14 @@
 /* actitivies */
 
-.title{
+.activities-title{
     text-align: center;
     background-color: black;
     color: azure;
+    font-size: 3.5em;
 
 }
 body{
     padding: 2em;
-
+    
 
 }
